@@ -1,0 +1,4 @@
+aiogram
+selenium
+weasyprint
+sqlalchemy
